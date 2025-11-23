@@ -33,23 +33,23 @@ This project explores historical stock price data for four major companies:
 
 
 # Exploratory Data Analysis (EDA)
-✔ 1. Closing Price Distribution
+ 1. Closing Price Distribution
 
 A histogram was created to understand how closing prices are spread. Shows strong clustering for each company.
 
-✔ 2. Total Trading Volume By Company
+ 2. Total Trading Volume By Company
 
 The bar chart shows AAPL has the highest trading volume, followed by GOOG and MSFT.
 
-✔ 3. Volume vs. Closing Price
+ 3. Volume vs. Closing Price
 
 A scatterplot  helps visualize whether higher volume relates to price shifts.
 
-✔ 4. Boxplot of Closing Prices
+ 4. Boxplot of Closing Prices
 
 The boxplot displays the distribution, median, quartiles, and outliers for all companies.
 
-✔ 5. Correlation Heatmap
+ 5. Correlation Heatmap
 
 The correlation matrix indicates that OHLC values are highly correlated (r> 0.99), while volume exhibits a negative correlation (r ~ –0.54).
 
